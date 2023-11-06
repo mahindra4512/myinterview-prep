@@ -1,3 +1,8 @@
 2. Explain the difference between grep and egrep?
 grep is a command that can be used on unix-like system.it searches for any string in list of strings or file
 Egrep or grep -E is another version of grep or the Extended grep. This version of grep is efficient and fast
+
+What is the difference between IP and Gateway?
+IP address is the address of your computer in a network. It is used to identify your computer.without ip we can't access internet.
+A gateway, also known as a router, is designed to connect two networks, allowing you to send and receive information.
+Without this gateway, you will only be able to talk to people who are using the same network or IP address.
