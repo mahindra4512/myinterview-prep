@@ -1,2 +1,3 @@
 2. Explain the difference between grep and egrep?
+grep is a command that can be used on unix-like system.it searches for any string in list of strings or file
 Egrep or grep -E is another version of grep or the Extended grep. This version of grep is efficient and fast
