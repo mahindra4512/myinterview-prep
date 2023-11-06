@@ -1,1 +1,2 @@
 2. Explain the difference between grep and egrep?
+Egrep or grep -E is another version of grep or the Extended grep. This version of grep is efficient and fast
